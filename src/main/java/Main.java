@@ -7,7 +7,7 @@ public class Main {
         ContatoCRUD contatoCrud = new ContatoCRUD();
         
         while (true) {
-            System.out.println("\nGERENCIADOR PESSOAL DE CONTATOS\n");
+            System.out.println("\n----- GERENCIADOR PESSOAL DE CONTATOS -----\n");
             System.out.println("1:Cadastrar contato");
             System.out.println("2:Cadastrar contato profissional");
             System.out.println("3:Listar contatos");
